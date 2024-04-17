@@ -1,0 +1,13 @@
+<user><2121><Rabia>
+-------List of Friends-------
+<friend>	2011	Shahid Ahmad
+<friend>	9190	Sean Michael
+<friend>	1221	Kinza Khan
+<friend>	4243	John Andrews
+<friend>	2123	Ali Bilal
+-------List of Pages---------
+<page>	7010	FAST-NU Community
+<page>	7011	Food Fusion
+<page>	7012	Netflix Pakistan
+<page>	7013	International Cricket Council
+<page>	7014	SpaceX
